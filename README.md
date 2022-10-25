@@ -5,3 +5,7 @@ Love💖 and Passion🔥 for technology is the drive that keeps me moving toward
 -From Bulawayo, Zimbabwe
 -Currently learning ReactJs
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
