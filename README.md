@@ -3,9 +3,9 @@
 ### My Story 🐱‍💻
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Frontend Developer | HTML, CSS, JavaScript, React.js
-*🌱 Actively contributing as the Frontend Developer in a MERN property rental app.
-*💼 Seeking exciting front-end development opportunities to drive innovation.
-*📫 Let's connect! Reach out to me at sibandamakhosetive7@gmail.com
+* 🌱 Actively contributing as the Frontend Developer in a MERN property rental app.
+* 💼 Seeking exciting front-end development opportunities to drive innovation.
+* 📫 Let's connect! Reach out to me at sibandamakhosetive7@gmail.com
 
 ### Check out my projects below to see some of my recent work 🌟:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
