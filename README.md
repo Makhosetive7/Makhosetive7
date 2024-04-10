@@ -10,5 +10,7 @@
 * **<em>[FoodRecipeApp](https://makhoe7-recipeapp.netlify.app/)</em>** : Built Food Recipe App with **<em>ReactJS</em>**, emphasizing clean design and responsiveness. Used **<em>React-Router-Dom</em>, Axios, <em>Styled-Components</em>**.
 
 ### GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makhosetive7&show_icons=true&theme=radical)
+<span>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makhosetive7&show_icons=true&theme=radical)
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Makhosetive7)
+</span>
