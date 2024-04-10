@@ -9,6 +9,5 @@
 * **<em>[SpaceNews-Launch](https://makhoe7-spacenews.netlify.app)</em>** : Developed a **<em>ReactJS</em>** web app featuring space news using **<em>React-Router-DOM</em>, <em>Styled-Components</em>**, and Axios.
 * **<em>[FoodRecipeApp](https://makhoe7-recipeapp.netlify.app/)</em>** : Built Food Recipe App with **<em>ReactJS</em>**, emphasizing clean design and responsiveness. Used **<em>React-Router-Dom</em>, Axios, <em>Styled-Components</em>**.
 
-[![Rent-a-room Stars](https://img.shields.io/github/stars/Makhosetive7/Rent-a-room)](https://github.com/your_username/Rent-a-room)
-[![SpaceNews-Launch Stars](https://img.shields.io/github/stars/Makhosetive7/SpaceNews-Launch)](https://github.com/your_username/SpaceNews-Launch)
-[![FoodRecipeApp Stars](https://img.shields.io/github/stars/Makhosetive7/FoodRecipeApp)](https://github.com/your_username/FoodRecipeApp)
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makhosetive7&show_icons=true&theme=radical)
