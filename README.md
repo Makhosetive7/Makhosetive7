@@ -1,13 +1,18 @@
-### HTML | CSS | JavaScript | React.js
-* Currently developing Front-End for **<em>MERN</em>** Property Rental App.
-* On the hunt for <em>Front-End</em> opportunities
-* Let's connect! **<em>sibandamakhosetive7@gmail.com</em>**
+# Hey there! 👋  
 
-### Projects:
+I'm **Makhosetive Mganji Sibanda**, a developer who loves turning ideas into reality.  
 
-* **<em>Rent-a-room</em>** : **<em>MERN</em>** Full-Stack project. Leading Front-End with **<em>ReactJS</em>**, **<em>Styled Components</em>** and other essential libraries. The source code is in a private repository.
-* **<em>[SpaceNews-Launch](https://makhoe7-spacenews.netlify.app)</em>** : Developed a **<em>ReactJS</em>** web app featuring space news using **<em>React-Router-DOM</em>, <em>Styled-Components</em>**, and Axios.
-* **<em>[FoodRecipeApp](https://makhoe7-recipeapp.netlify.app/)</em>** : Built Food Recipe App with **<em>ReactJS</em>**, emphasizing clean design and responsiveness. Used **<em>React-Router-Dom</em>, Axios, <em>Styled-Components</em>**.
+### 🚀 Tech Stack:
+- **Frontend:** React, JavaScript, TypeScript  
+- **Backend:** Node.js, FastAPI, Spring Boot  
+- **Languages:** Python, Java  
+- **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Makhosetive7&show_icons=true&theme=radical) | ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Makhosetive7) |
-|---|---|
+### 💡 What I Love:
+- 💻 Coding
+- 🔍 Problem-Solving
+- 📖 Learning
+- ⚽ Soccer  
+
+💬 Let's connect and build something awesome!  
+📫 **[https://github.com/Makhosetive7]**
