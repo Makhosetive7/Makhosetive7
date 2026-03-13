@@ -1,18 +1,12 @@
-# Hey there! 👋  
+# Hey there 
 
 I'm **Makhosetive Mganji Sibanda**, a developer who loves turning ideas into reality.  
 
-### 🚀 Tech Stack:
+### Tech Stack:
 - **Frontend:** React, JavaScript, TypeScript  
 - **Backend:** Node.js, FastAPI, Spring Boot  
 - **Languages:** Python, Java  
-- **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Data Analysis Tools:** Pandas, NumPy, Matplotlib, Seaborn 
 
-### 💡 What I Love:
-- 💻 Coding
-- 🔍 Problem-Solving
-- 📖 Learning
-- ⚽ Soccer  
-
-💬 Let's connect and build something awesome!  
-📫 **[https://github.com/Makhosetive7]**
+Let's connect and build something awesome!  
+**[https://github.com/Makhosetive7]**
